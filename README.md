@@ -14,7 +14,7 @@ Stars (WatchEvent)
 Forks
 Pull requests
 
-###Shows descriptive output like:
+### Shows descriptive output like:
 ```bash
 
 - Pushed 3 commits to octocat/Hello-World
